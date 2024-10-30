@@ -1,4 +1,4 @@
 const Dashboard = () => {
-  return <>ahaha</>;
+  return <>ahihi</>;
 };
 export default Dashboard;
